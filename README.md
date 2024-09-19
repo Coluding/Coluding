@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 💫 About Me:
-I am currently working on various Projects in the realm of Deep Learning, <br>especially Computer Vision, NLP, Graph Neural Networks, and Deep Reinforcement Learning.<br><br>I am a student of Economics, Mathematics and Computer Science.<br><br>I love to connect with people and interchange ideas. Thus,  if you want to collaborate on any project or have an idea, I would love to hear from you.
+I am currently working on various Projects in the realm of Deep Learning, <br>especially Computer Vision, NLP, Graph Neural Networks, and Deep Reinforcement Learning.<br><br>I am a student of Artificial Intelligence. I did my Bachelors in Economics, Mathematics and Computer Science.<br><br>I love to connect with people and interchange ideas. Thus,  if you want to collaborate on any project or have an idea, I would love to hear from you.
 
 <br><br>
 
