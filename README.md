@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 💫 About Me:
-I am currently working on various Projects in the realm of Deep Learning, <br>especially Computer Vision, NLP, Graph Neural Networks, and Deep Reinforcement Learning.<br><br>I am a student of Artificial Intelligence. I did my Bachelor in Economics, Mathematics and Computer Science.<br><br>I love to connect with people and interchange ideas. Thus,  if you want to collaborate on any project or have an idea, I would love to hear from you.
+Hi there,  I am Lukas! <br><br> I am a passionate researcher and engineer in the field of machine learning. My main research interests cover self-supervised learning for computer vision, graphs, and language as well as reinforcement learning for combinatorial optimization problems. Furthermore, I am very interested in the broad subject of world models in model-based reinforcement learning. <br><br> Currently, I am working on several projects in these areas. I would be happy if we can connect!
 
 <br><br>
 
